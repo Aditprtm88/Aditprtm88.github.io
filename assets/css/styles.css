@@ -711,7 +711,7 @@ background-color: var(--container-color);
   }
 
   .tentangkita__container{
-    row-gap: 0.5rem;
+    row-gap: 1rem;
   }
 
   .buatkamu__container{
