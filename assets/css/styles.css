@@ -681,7 +681,7 @@ background-color: var(--container-color);
 
   .home__container{
     grid-template-columns: repeat(2,600px);
-    gap: 8rem 5rem;
+    gap: 1rem 5rem;
   }
 
   .home__img{
@@ -711,7 +711,7 @@ background-color: var(--container-color);
   }
 
   .tentangkita__container{
-    row-gap: 2rem;
+    row-gap: 0.5rem;
   }
 
   .buatkamu__container{
